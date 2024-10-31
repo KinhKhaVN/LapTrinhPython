@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kinh Kha", 
+        "age": 30, 
+        "city": "New York", 
+        "isStudent": false, 
+        "hobbies": [
+            "reading", 
+            "traveling", 
+            "coding"
+        ], 
+        "education": {
+            "undergrad": "Physics", 
+            "grad": "Computer Science"
+        }
+    }, 
+    {
+        "name": "Thanh Ngan", 
+        "age": 30, 
+        "city": "New York", 
+        "isStudent": false, 
+        "hobbies": [
+            "reading", 
+            "traveling", 
+            "coding"
+        ], 
+        "education": {
+            "undergrad": "Physics", 
+            "grad": "Computer Science"
+        }
+    }
+]
